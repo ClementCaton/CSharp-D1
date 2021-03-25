@@ -1,0 +1,16 @@
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\bin\Debug\net5.0\MyConsole1.exe
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\bin\Debug\net5.0\MyConsole1.deps.json
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\bin\Debug\net5.0\MyConsole1.runtimeconfig.json
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\bin\Debug\net5.0\MyConsole1.runtimeconfig.dev.json
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\bin\Debug\net5.0\MyConsole1.dll
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\bin\Debug\net5.0\ref\MyConsole1.dll
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\bin\Debug\net5.0\MyConsole1.pdb
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\obj\Debug\net5.0\MyConsole1.csprojAssemblyReference.cache
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\obj\Debug\net5.0\MyConsole1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\obj\Debug\net5.0\MyConsole1.AssemblyInfoInputs.cache
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\obj\Debug\net5.0\MyConsole1.AssemblyInfo.cs
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\obj\Debug\net5.0\MyConsole1.csproj.CoreCompileInputs.cache
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\obj\Debug\net5.0\MyConsole1.dll
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\obj\Debug\net5.0\ref\MyConsole1.dll
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\obj\Debug\net5.0\MyConsole1.pdb
+C:\Users\ClémentCATON\source\repos\MyConsole1\MyConsole1\obj\Debug\net5.0\MyConsole1.genruntimeconfig.cache
